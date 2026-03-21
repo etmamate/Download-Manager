@@ -26,12 +26,14 @@ O **Download Manager** é uma aplicação web que centraliza os links de downloa
 - **JavaScript** - Funcionalidade dos botões e redirecionamentos
 
 ## 📁 Estrutura do Projeto
-trem-de-download/
+```
+DownloadManager/
 │
 ├── index.html # Estrutura principal da página
 ├── style.css # Estilos e responsividade
 ├── script.js # Lógica dos botões e redirecionamentos
 └── README.md # Documentação do projeto
+```
 
 ## 🚀 Como Executar
 
