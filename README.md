@@ -44,4 +44,4 @@ Apenas um navegador web moderno (Chrome, Firefox, Edge, etc.)
 
 1. **Clone este repositório**
    ```bash
-   git clone https://github.com/seu-usuario/trem-de-download.git
+   git clone https://github.com/seu-usuario/Download-Manager.git
