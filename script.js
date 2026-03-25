@@ -7,7 +7,7 @@ document.getElementById('btn_sentinela').addEventListener('click', function() {
 });
 
 document.getElementById('btn_easy').addEventListener('click',function(){
-    window.open('https://drive.usercontent.google.com/uc?id=1NtqGG4uZxlJAzSlkYV-_Lm5TmFGkru-3&authuser=5&export=download','_blank');
+    window.open('https://drive.usercontent.google.com/uc?id=1RHbzVFkmrraCckOhCUtTbNQcipaALkmx&authuser=3&export=download','_blank');
 })
 
 document.getElementById('btn_chrome').addEventListener('click',function(){
